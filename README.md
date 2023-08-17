@@ -1,2 +1,136 @@
-# resume2023
-resume2023
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Sushmita Saha - Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    .header {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+
+    .contact {
+      margin: 20px;
+    }
+
+    .summary {
+      margin: 20px;
+    }
+
+    .section {
+      margin: 20px;
+    }
+
+    .subsection {
+      margin: 10px;
+      padding-left: 20px;
+    }
+
+    .skills {
+      margin: 20px;
+    }
+
+    .education {
+      margin: 20px;
+    }
+
+    .affiliations {
+      margin: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="header">
+    <h1>Sushmita Saha</h1>
+    <p>Forest Hills, NY 11375 • Sushsa725@gmail.com • 646-331-2118</p>
+  </div>
+
+  <div class="contact">
+    <h2>CONTACT</h2>
+    <p>Email: Sushsa725@gmail.com</p>
+    <p>Phone: 646-331-2118</p>
+  </div>
+
+  <div class="summary">
+    <h2>SUMMARY</h2>
+    <p>Results-driven business professional with experience in strategic analysis, deal structuring, financial modeling, and cross-functional collaboration. Currently pursuing a Master's in Finance. Proficient in SQL, R, Python, and Excel. Seeking a challenging role in strategy execution and business optimization, leveraging expertise in strategic initiatives, market intelligence, and operational enhancements within the finance and technology sectors.</p>
+  </div>
+
+  <div class="section">
+    <h2>PROFESSIONAL EXPERIENCE</h2>
+    <div class="subsection">
+      <h3>ACCENTURE - NEW YORK, NY</h3>
+      <p><strong>DEAL STRUCTURING & PRICING ANALYST</strong> | AUG 2021 - PRESENT</p>
+      <ul>
+        <li>Delivered expert sales pricing, valuation, and accurate complex sales forecasting for high-value client deals.</li>
+        <li>Provided critical insights to leadership, enabling informed decision-making for long-term business growth.</li>
+        <li>Successfully shaped multi-million dollar deals and led financial modeling and strategic pricing analysis for over 10 complex deals, each exceeding $50 million, contributing to a total revenue growth of $250 million.</li>
+        <li>Collaborated with cross-functional teams to develop tailored solutions that exceeded client expectations.</li>
+      </ul>
+    </div>
+    <div class="subsection">
+      <h3>PRICEWATERHOUSECOOPERS - NEW YORK, NY</h3>
+      <p><strong>REAL ESTATE TAX INTERN</strong> | JAN 2021 – APR 2021</p>
+      <ul>
+        <li>Prepare workpapers and federal/state income tax returns for various funds and projects.</li>
+        <li>Resolve client issues by reviewing workpapers for accuracy and compliance.</li>
+        <li>Assist in tax document organization, ensuring tests are in scope for the year.</li>
+      </ul>
+    </div>
+    <div class="subsection">
+      <h3>CHARLES SCHWAB - NEW YORK, NY</h3>
+      <p><strong>TECHNOLOGY RISK MANAGEMENT INTERN</strong> | AUG 2020 - NOV 2020</p>
+      <ul>
+        <li>Work with Microsoft Power BI to create visualizations of software testing and their results.</li>
+        <li>Review and optimize performance metrics by implementing data analysis using SQL and Python, resulting in improvement in identifying performance bottlenecks in Schwab's investment platform.</li>
+        <li>Extract evidence from scoping documents and organize data in Excel for reporting purposes.</li>
+      </ul>
+    </div>
+    <div class="subsection">
+      <h3>BANGLADESHI WOMEN’S COUNCIL - LONG ISLAND CITY, NY</h3>
+      <p><strong>COMMUNICATIONS SPECIALIST</strong> | JUL 2014 – JAN 2016</p>
+      <ul>
+        <li>Contribute to strategic marketing plans and fundraising events.</li>
+        <li>Raise over $420,000 for medical treatment of acid and burn victims from Bangladesh.</li>
+        <li>Plan and organize galas and cultural events to support fundraising efforts.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="skills">
+    <h2>SKILLS</h2>
+    <p><strong>Technical Skills:</strong> SQL, R, Python, Excel, Microsoft Office, Google Ads, Google Analytics</p>
+    <p><strong>Other Skills:</strong> Financial Modeling, Pricing Optimization, Strategic Partnership Development, Data Analysis and Insights, Presentation and Communication</p>
+    <p><strong>Languages:</strong> English, Bengali, Hindi, Urdu</p>
+  </div>
+
+  <div class="education">
+    <h2>EDUCATION</h2>
+    <p><strong>ZICKLIN SCHOOL OF BUSINESS, BARUCH COLLEGE - NEW YORK, NY</strong></p>
+    <p>Master of Science in Marketing & Finance | Expected May 2025</p>
+    <p><strong>CITY UNIVERSITY OF NEW YORK - NEW YORK, NY</strong></p>
+    <p>Bachelor of Science in Accounting | May 2021</p>
+    <p><strong>MOUNT HOLYOKE COLLEGE - SOUTH HADLEY, MA</strong></p>
+    <p>Bachelor of Arts in Anthropology | May 2015</p>
+  </div>
+
+  <div class="affiliations">
+    <h2>PROFESSIONAL AFFILIATIONS</h2>
+    <ul>
+      <li>National Association of Black Accountants</li>
+      <li>Association of Latino Professionals for America</li>
+      <li>100 Women in Finance</li>
+    </ul>
+  </div>
+</body>
+
+</html>
